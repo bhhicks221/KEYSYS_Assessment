@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/handleyhicks/Documents/Documents/KEYSYS/MockWeb/api/api.csproj": {}
+    "/Users/handleyhicks/Documents/Documents/KEYSYS/InvoiceWebService/api/api.csproj": {}
   },
   "projects": {
-    "/Users/handleyhicks/Documents/Documents/KEYSYS/MockWeb/api/api.csproj": {
+    "/Users/handleyhicks/Documents/Documents/KEYSYS/InvoiceWebService/api/api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/handleyhicks/Documents/Documents/KEYSYS/MockWeb/api/api.csproj",
+        "projectUniqueName": "/Users/handleyhicks/Documents/Documents/KEYSYS/InvoiceWebService/api/api.csproj",
         "projectName": "api",
-        "projectPath": "/Users/handleyhicks/Documents/Documents/KEYSYS/MockWeb/api/api.csproj",
+        "projectPath": "/Users/handleyhicks/Documents/Documents/KEYSYS/InvoiceWebService/api/api.csproj",
         "packagesPath": "/Users/handleyhicks/.nuget/packages/",
-        "outputPath": "/Users/handleyhicks/Documents/Documents/KEYSYS/MockWeb/api/obj/",
+        "outputPath": "/Users/handleyhicks/Documents/Documents/KEYSYS/InvoiceWebService/api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/handleyhicks/.nuget/NuGet/NuGet.Config"
