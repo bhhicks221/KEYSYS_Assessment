@@ -1,0 +1,25 @@
+.navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.card{
+    padding: 5px;
+}
+
+.button{
+    background: white;
+    padding: 100x;
+}
+  .move-down {
+    position: relative;
+    top: 75px; /* Adjust the value as needed */
+  }
+
+  .move-down-farther {
+    position: relative;
+    top: 100px; /* Adjust the value as needed */
+  }
